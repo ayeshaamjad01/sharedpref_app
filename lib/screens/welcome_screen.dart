@@ -1,5 +1,5 @@
-import 'package:app/screens/data_input.dart';
-import 'package:app/screens/data_retrieval.dart';
+import 'package:sharedpref_app/screens/data_input.dart';
+import 'package:sharedpref_app/screens/data_retrieval.dart';
 import 'package:flutter/material.dart';
 
 class WelcomeScreen extends StatefulWidget {
